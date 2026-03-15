@@ -27,7 +27,7 @@ from src.process_syflow_results import (
 # CONFIG
 # =========================
 
-CONFIG_FILE = "configs/brca_mrna.py"  # <-- set your config here
+CONFIG_FILE = "configs/config_example_mrna.py"  # <-- set your config here
 
 
 def load_config(path: str):
