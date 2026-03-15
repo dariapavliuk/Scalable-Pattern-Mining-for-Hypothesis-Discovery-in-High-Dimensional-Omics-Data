@@ -19,7 +19,7 @@ from src.apply_syflow_omicarules import (
 # CONFIG
 # =========================
 
-CONFIG_FILE = "configs/config_biobank.py"  # <-- set your config here
+CONFIG_FILE = "configs/config_example.py"  # <-- set your config here
 
 
 def load_config(path: str):
